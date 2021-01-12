@@ -1,2 +1,2 @@
-# NLP_ADHD_Twitter
- Research Paper I'm working on about characterizing ADHD conversations on Twitter
+# NLP_NuclearTwitter
+ Research Paper about characterizing Nuclear Energy conversations on Twitter.
